@@ -1,0 +1,47 @@
+tr {
+ color:black;
+ background:white;
+ }
+ p {color:black;
+ text-align: justify;}
+ body {background:pink;}
+
+  .hijau {
+ color:white;
+ text-align:center ;
+ background :black;}
+
+ h3{color:black;
+    text-align: center;}
+ .hehe {
+ color:darkblue;}
+ 
+ .ikan 
+ {
+   background-image: url('mlp.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+.sapu
+{color: salmon;
+background-color: pink;}
+.dropdown-item
+{background-color: pink;}
+.flamingo
+{
+ color:black;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
+Unicode', Geneva, Verdana, sans-serif;
+}
+.sapi
+{ color:palevioletred;
+text-align: center;}
+
+.dropdown-item
+{color:purple;
+}
+.rounded-image
+{border-radius: 200px;
+ -webkit-border-radius: 200px;
+ -moz-border-radius: 200px;}
+
